@@ -2,6 +2,8 @@
 
 This repository contains all exercises and notebooks developed throughout the Artificial Intelligence university diploma. Each module is organized in its own directory, with Colab notebooks that cover theoretical concepts, practical exercises, and experiments.
 
+> 📌 **Note**: All deliverables are written in **Spanish**, as required by the diploma program.
+
 ## 📚 Modules Overview
 
 ### 1. Introduction to Artificial Intelligence
